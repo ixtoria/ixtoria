@@ -1,36 +1,38 @@
 ## Hi there 👋
-# Bem-vindo ao meu perfil!
+# Welcome to my profile!
 
-Sou um **professor de física**, **mentor de programação**, e **desenvolvedor**. Aqui está um pouco sobre mim e minhas especialidades:
+I am a **physics professor**, **programming mentor**, and **developer**. Here is a bit about me and my specialties:
 
-## Qualificações
+## Qualifications
 
-- **Formação**:
-  - Graduação em Física pela [UFJF](https://www.ufjf.br)
-  - Mestrado em Física pela [UFRJ](https://www.ufrj.br)
+- **Education**:
+  - Bachelor's degree in Physics from [UFJF](https://www.ufjf.br)
+  - Master's degree in Physics from [UFRJ](https://www.ufrj.br)
 
-## Especialidades
+## Specialties
 
-- **Linguagens de Programação**:
-  - **Python**: Desenvolvimento de scripts, automação, análise de dados e Machine Learning.
-  - **C++**: Programação de alto desempenho, desenvolvimento de software e projetos em C++.
+- **Programming Languages**:
+  - **Python**: Script development, automation, data analysis, and Machine Learning.
+  - **C++**: High-performance programming, software development, and C++ projects.
   
 - **Machine Learning**:
-  - Experiência em implementação e otimização de algoritmos de aprendizado de máquina.
+  - Experience in implementing and optimizing machine learning algorithms.
 
 - **SQL**:
-  - Manipulação e análise de bancos de dados, consultas complexas e gestão de dados.
+  - Database manipulation and analysis, complex queries, and data management.
 
 - **TOPAS MC**:
-  - Simulações Monte Carlo para aplicações em física e engenharia.
+  - Monte Carlo simulations for applications in physics and engineering.
 
-## Entre em Contato
+## Get in Touch
 
-Se você quiser conversar sobre projetos, oportunidades de colaboração ou apenas trocar ideias, sinta-se à vontade para entrar em contato!
+If you want to discuss projects, collaboration opportunities, or just exchange ideas, feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-oliveira-b6404920b/)
-- [Email](oliveiras.fisica@gmail.com)
+- [Email](mailto:oliveiras.fisica@gmail.com)
+- [Phone](https://wa.me/+5532998114083)
 
-Obrigado por visitar o meu perfil!
+Thank you for visiting my profile!
+
 
 
